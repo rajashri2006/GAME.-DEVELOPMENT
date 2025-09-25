@@ -72,8 +72,9 @@ xend=xb;
 ```
 
 **Output :**
+
 ![WhatsApp Image 2025-09-25 at 15 08 07_024c0eef](https://github.com/user-attachments/assets/e8d6cc93-e7c6-405e-93a8-f8be8793cbe0)
 
 
 **Result :**
-
+Thus the given program is executed successfully.
